@@ -2,7 +2,7 @@
 
 ## Welcome
 
-A not so curated and random list of amazingly awesome awesomeness. TEST!
+A not so curated and random list of amazingly awesome awesomeness. MMY!
 
 ## Building Software
 
